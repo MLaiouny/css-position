@@ -1,0 +1,25 @@
+.common {
+	font-size: 30px;
+	color: black;
+}
+
+.first {
+	background-color: green;
+}
+
+.second {
+	background-color: red;
+	position: relative;
+	left: 20px;
+	top: 2px;
+}
+
+.third {
+	background-color: blue;
+	height: 50px;
+}
+
+.b {
+	position: relative;
+	top: 10px;
+}
